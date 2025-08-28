@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NeuraFuse</string>
+    <string name="accessibility_description">NeuraFuse blocks distracting apps during focus mode</string>
+    <string name="accessibility_service_description">NeuraFuse Accessibility Service</string>
+
+    <!-- Add other strings if needed -->
+</resources>

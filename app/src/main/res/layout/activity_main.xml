@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scrollView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F8F9FA"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/textTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="App Usage Overview"
+            android:textSize="22sp"
+            android:textColor="#222222"
+            android:textStyle="bold"
+            android:layout_gravity="center" />
+
+        <com.github.mikephil.charting.charts.PieChart
+            android:id="@+id/pieChart"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="12dp" />
+        <Button
+            android:id="@+id/btnToggleTesting"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="🧪 Testing Mode: OFF"
+            android:layout_marginTop="8dp"/>
+
+        <com.github.mikephil.charting.charts.BarChart
+            android:id="@+id/barChart"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="12dp" />
+        <TextView
+            android:id="@+id/focusCountdown"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="00:00"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btnStopAlarm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Stop Alarm"
+            android:visibility="gone" />
+        <Button
+            android:id="@+id/stopFocusBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Stop Focus Mode"
+            android:backgroundTint="#FF5252"
+            android:textColor="#FFFFFF"
+            android:layout_marginTop="10dp"
+            />
+
+
+        <TextView
+            android:id="@+id/textAllApps"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="All Apps Usage"
+            android:textSize="18sp"
+            android:textColor="#333333"
+            android:textStyle="bold"
+            android:layout_marginTop="16dp" />
+
+        <!-- ⚠️ Important: Use wrap_content instead of fixed height to allow scroll -->
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerAllApps"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:background="#FFFFFF" />
+
+        <Button
+            android:id="@+id/btnSelectPrimary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="🎯 Choose Primary Apps"
+            android:layout_marginTop="12dp"
+            android:backgroundTint="#2962FF"
+            android:textColor="#FFFFFF"
+            android:textAllCaps="false"
+            android:padding="12dp" />
+
+        <Button
+            android:id="@+id/btnSchedule"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="📅 Schedule Focus Mode"
+            android:layout_marginTop="12dp"
+            android:backgroundTint="@color/purple_700"
+            android:textColor="@android:color/white"
+            android:textAllCaps="false"
+            android:drawableStart="@drawable/ic_calendar"
+            android:padding="12dp" />
+    </LinearLayout>
+</ScrollView>
