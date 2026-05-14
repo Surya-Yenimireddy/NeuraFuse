@@ -31,7 +31,7 @@ NeuraFuse goes beyond simple screen time tracking. It uses a combination of **Ac
 
 | Dashboard & Streaks | Focus Mode Active | Digital Wellbeing |
 |:---:|:---:|:---:|
-| <img src="screenshots/dashboard.jpg" width="220"/> | <img src="screenshots/focus.jpg" width="220"/> | <img src="screenshots/stats.jpg" width="220"/> |
+| <img src="screenshots/dashboard.jpeg" width="220"/> | <img src="screenshots/focus.jpeg" width="220"/> | <img src="screenshots/stats.jpeg" width="220"/> |
 
 ## 🔒 Required Permissions & Why
 NeuraFuse relies on deep Android system integrations to function effectively:
