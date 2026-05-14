@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- NeuraFuse Premium Color Palette -->
+
+    <!-- Primary -->
+    <color name="primary">#4F6EF7</color>
+    <color name="primary_dark">#3A56D4</color>
+    <color name="primary_light">#8B9FFF</color>
+    <color name="primary_surface">#1E2A5E</color>
+
+    <!-- Accent -->
+    <color name="accent">#00E5A0</color>
+    <color name="accent_dark">#00C488</color>
+
+    <!-- Backgrounds -->
+    <color name="bg_dark">#0F1123</color>
+    <color name="bg_card">#1A1D35</color>
+    <color name="bg_card_elevated">#222645</color>
+    <color name="bg_surface">#151729</color>
+    <color name="bg_input">#1E2140</color>
+
+    <!-- Text -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#A0A3BD</color>
+    <color name="text_hint">#6B6F8D</color>
+
+    <!-- Status Colors -->
+    <color name="success">#00E5A0</color>
+    <color name="warning">#FFB547</color>
+    <color name="danger">#FF5C5C</color>
+    <color name="info">#5CA0FF</color>
+
+    <!-- Chart Colors -->
+    <color name="chart_1">#4F6EF7</color>
+    <color name="chart_2">#00E5A0</color>
+    <color name="chart_3">#FF5C5C</color>
+    <color name="chart_4">#FFB547</color>
+    <color name="chart_5">#A855F7</color>
+    <color name="chart_6">#06B6D4</color>
+
+    <!-- Category Colors -->
+    <color name="cat_social">#FF5C5C</color>
+    <color name="cat_entertainment">#FFB547</color>
+    <color name="cat_productivity">#00E5A0</color>
+    <color name="cat_education">#4F6EF7</color>
+    <color name="cat_communication">#06B6D4</color>
+    <color name="cat_other">#A855F7</color>
+
+    <!-- Gradient Overlays -->
+    <color name="gradient_start">#4F6EF7</color>
+    <color name="gradient_end">#A855F7</color>
+
+    <!-- Bottom Nav -->
+    <color name="nav_active">#4F6EF7</color>
+    <color name="nav_inactive">#6B6F8D</color>
+
+    <!-- Streak Fire -->
+    <color name="streak_orange">#FF8C42</color>
+    <color name="streak_red">#FF5C5C</color>
+
+    <!-- Legacy compatibility -->
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

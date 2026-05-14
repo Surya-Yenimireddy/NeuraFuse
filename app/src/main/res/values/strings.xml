@@ -1,0 +1,83 @@
+<resources>
+    <!-- App Info -->
+    <string name="app_name">NeuraFuse</string>
+    <string name="app_tagline">Your Digital Focus Companion</string>
+
+    <!-- Navigation -->
+    <string name="open">Open navigation</string>
+    <string name="close">Close navigation</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_focus">Focus</string>
+    <string name="nav_stats">Stats</string>
+    <string name="nav_apps">Apps</string>
+
+    <!-- Home Screen -->
+    <string name="greeting_morning">Good Morning 👋</string>
+    <string name="greeting_afternoon">Good Afternoon 👋</string>
+    <string name="greeting_evening">Good Evening 👋</string>
+    <string name="today_focus">Today\'s Focus</string>
+    <string name="weekly_overview">Weekly Overview</string>
+    <string name="quick_focus">Quick Focus</string>
+    <string name="current_streak">Current Streak</string>
+
+    <!-- Focus Mode -->
+    <string name="focus_mode">Focus Mode</string>
+    <string name="primary_apps">Primary Apps</string>
+    <string name="digital_wellbeing">Digital Wellbeing</string>
+    <string name="start_focus">Start Focus</string>
+    <string name="stop_focus">Stop Focus</string>
+    <string name="focus_active">Focus Mode Active</string>
+    <string name="focus_inactive">Focus Mode Off</string>
+    <string name="focus_started">Focus Mode Started</string>
+    <string name="focus_ended">Focus Mode Ended</string>
+    <string name="session_complete">Focus Session Complete! 🎯</string>
+
+    <!-- Presets -->
+    <string name="preset_pomodoro">Pomodoro\n25 min</string>
+    <string name="preset_deep_work">Deep Work\n1 hour</string>
+    <string name="preset_study">Study\n2 hours</string>
+    <string name="preset_custom">Custom\nSet time</string>
+
+    <!-- Streaks -->
+    <string name="day_streak">day streak 🔥</string>
+    <string name="days_streak">day streak 🔥</string>
+    <string name="no_streak">Start your first focus session!</string>
+    <string name="streak_milestone_3">3-Day Streak! Keep going! 🌟</string>
+    <string name="streak_milestone_7">7-Day Streak! You\'re on fire! 🔥</string>
+    <string name="streak_milestone_30">30-Day Legend! Unstoppable! 🏆</string>
+
+    <!-- Session History -->
+    <string name="session_history">Session History</string>
+    <string name="no_sessions">No focus sessions yet</string>
+    <string name="total_focus_time">Total Focus Time</string>
+    <string name="sessions_this_week">Sessions This Week</string>
+
+    <!-- Wellbeing -->
+    <string name="today_screen_time">Today\'s Screen Time</string>
+    <string name="weekly_usage">Weekly Usage</string>
+    <string name="app_usage">App Usage</string>
+    <string name="category_breakdown">Category Breakdown</string>
+
+    <!-- Categories -->
+    <string name="cat_social">Social Media</string>
+    <string name="cat_entertainment">Entertainment</string>
+    <string name="cat_productivity">Productivity</string>
+    <string name="cat_education">Education</string>
+    <string name="cat_communication">Communication</string>
+    <string name="cat_other">Other</string>
+
+    <!-- Tasks -->
+    <string name="add_task">Add Focus Task</string>
+    <string name="task_saved">Task saved &amp; scheduled ✅</string>
+
+    <!-- Widget -->
+    <string name="widget_description">Shows your next Focus Task and lets you add new ones</string>
+
+    <!-- Accessibility -->
+    <string name="accessibility_service_label">NeuraFuse Focus Service</string>
+    <string name="accessibility_service_description">Helps NeuraFuse control non-primary apps during Focus Mode</string>
+
+    <!-- Permissions -->
+    <string name="grant_usage_access">Grant Usage Access to NeuraFuse</string>
+    <string name="enable_accessibility">Please enable NeuraFuse Accessibility Service</string>
+</resources>

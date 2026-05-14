@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:title="Home"
+        android:icon="@drawable/ic_home" />
+    <item
+        android:id="@+id/nav_focus"
+        android:title="Focus"
+        android:icon="@drawable/ic_focus" />
+    <item
+        android:id="@+id/nav_stats"
+        android:title="Stats"
+        android:icon="@drawable/ic_pie" />
+    <item
+        android:id="@+id/nav_apps"
+        android:title="Apps"
+        android:icon="@drawable/ic_apps" />
+</menu>
