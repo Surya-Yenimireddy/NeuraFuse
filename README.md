@@ -31,7 +31,7 @@ NeuraFuse goes beyond simple screen time tracking. It uses a combination of **Ac
 
 | Dashboard & Streaks | Focus Mode Active | Digital Wellbeing |
 |:---:|:---:|:---:|
-| <img src="https://via.placeholder.com/250x500.png?text=Dashboard" width="200"/> | <img src="https://via.placeholder.com/250x500.png?text=Focus+Timer" width="200"/> | <img src="https://via.placeholder.com/250x500.png?text=Analytics" width="200"/> |
+| <img src="screenshots/dashboard.jpg" width="220"/> | <img src="screenshots/focus.jpg" width="220"/> | <img src="screenshots/stats.jpg" width="220"/> |
 
 ## 🔒 Required Permissions & Why
 NeuraFuse relies on deep Android system integrations to function effectively:
@@ -74,7 +74,7 @@ NeuraFuse/
 ## 👨‍💻 Author
 **Surya Yenimireddy**
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+<a href="https://www.linkedin.com/in/surya-yenimireddy-1176402a4/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/Surya-Yenimireddy" target="_blank">
